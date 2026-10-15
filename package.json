@@ -1,0 +1,17 @@
+{
+  "name": "ombir-backend",
+  "version": "1.0.0",
+  "description": "backend which devloped by ombir",
+  "keywords": [
+    "javascript",
+    "backend",
+    "ombir"
+  ],
+  "license": "ISC",
+  "author": "Ombir Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
