@@ -1,0 +1,14 @@
+$kind: http-request
+description: ""
+url: "{{server}}/users/logout"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"email\": \"vikrant324@gmail.com\",\r
+
+    \    \"password\": \"6534423\"\r
+
+    }"
+order: 3000
